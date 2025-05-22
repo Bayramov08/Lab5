@@ -1,0 +1,42 @@
+{
+  "şəxsiMəlumatlar": {
+    "ad": "Turan Bayramov",
+    "email": "turanbayramovfh08@gmail.com",
+    "doğumTarixi": "2007-04-18",
+    "təsvir": "Dəqiq işləyirəm komanda ilə işləmə bacarığım yüksəkdir yaranan problemlərin tez bir şəkildə həllini tapa bilirəm.",
+    "ünvan": "Balakən Rayonu Püştətala Sovetliyi",
+    "telefon": "050 664 17 60"
+  },
+  "məlumatlar": {
+    "Təhsil": [
+      "Azərbaycan Texniki Universiteti - İnformasiya Təhlükəsizliyi (1-ci kurs, 2024 - Hal hazırda davam edir)"
+    ],
+    "Bacarıqlar": [
+      "✔Proqramlaşdırma dilləri (Python, C++, Java və s.)",
+      "✔Frontend Texnologiyaları (HTML, CSS və s.)",
+      "✔Ofis Proqramları ( Word,  Excel, PowerPoint )"
+    ],
+    "İş Təcrübəsi": [
+      "Hal hazırda iş təcrübəsi yoxdur yalnız praktika edirəm"
+    ],
+    "Haqqımda": [
+      "Yeni biliklərə, tapşırıqları məsuliyyətlə yerinə yetirirəm, komandada işləməyi bacarıram və inkişafa innovativ yanaşıram"
+    ],
+    "Şəxsi Keyfiyyətlər": [
+      "✔Problemlərin tez həlli",
+      "✔İntellektli  düşünmək",
+      "✔Təqdimat bacarıqları",
+      "✔İnadkar",
+      "✔Stressə davamlı",
+      "✔Kamanda ilə işləmə"
+    ],
+    "Hobbi və Maraqlar": [
+      "İdman ilə məşğul olmaq, futbol oynamaq, özünü inkişaf elətdirmək yeni yerlər gəzmək"
+    ],
+    "Dillər": [
+      "English -  A1 A2 arası",
+      "Türk - Yaxşı",
+      "Azərbaycan - Əla"
+    ]
+  }
+}
